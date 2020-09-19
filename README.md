@@ -1,2 +1,2 @@
 # Spark
-The Repository is destitated to the exercises resolution to test of Semantix
+The Repository is dedicated to the resolution of the exercises to test of Semantix.
